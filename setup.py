@@ -3,7 +3,7 @@ import setuptools
 #https://python-packaging-tutorial.readthedocs.io/en/latest/setup_py.html
 setuptools.setup(
     name="pajamas",  
-    version="0.1a1",
+    version="0.1a2",
     author="Armand Niederberger",
     author_email="pajamas@armandniederberger.com",
     packages=["pajamas"],
@@ -12,6 +12,7 @@ setuptools.setup(
     license="LICENSE",
     description="Package to strip jupyter notebooks of their output and dress back up from these pajamas.",
     long_description=open('README.md').read(),
+    long_description_content_type='text/markdown',
     install_requires=[],
     classifiers=[
         "Programming Language :: Python :: 3",
