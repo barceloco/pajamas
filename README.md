@@ -1,2 +1,2 @@
 # pajamas
-Fancy clothes for jupyter notebooks to sleep in.
+Fancy light clothes for jupyter notebooks to sleep in.
